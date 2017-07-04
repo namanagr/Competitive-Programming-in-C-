@@ -1,4 +1,4 @@
-// This program performs Level order traversla of a binary tree
+// This program performs Level order traversal of a binary tree
 
 #include<iostream>
 #include<queue>
